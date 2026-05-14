@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://Budkhuu976.github.io/snippets-kldmd5/sitemap.xml
